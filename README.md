@@ -7,4 +7,5 @@
 
 `small zone`
 ```big zine```
-![NKUSt}(nkust.png "NKUST")
+
+![NKUST](nkust.png "NKUST")
